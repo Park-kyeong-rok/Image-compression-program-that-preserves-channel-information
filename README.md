@@ -18,3 +18,8 @@ argument.py:학습에 필요한 인자 및 다양한 커스터마이징을 위�
 
 run.py:최종적인 실행을 위한 파일입니다.
 폴더 내 파일들은 유기적으로 실행되므로 이미지 데이터 저장 후 해당 파일만 실행하면 데이터 압축 및 기계학습3종에서의 성능 평가를 그래프와 출력창을 통해 제공받을 수 있습니다.
+
+# Information
+
+Affiliation: LearnDataLab, SKKU
+E-mail : rnrnfjwl11@skku.edu
