@@ -22,4 +22,5 @@ run.py:최종적인 실행을 위한 파일입니다.
 # Information
 
 Affiliation: LearnDataLab, SKKU
+
 E-mail : rnrnfjwl11@skku.edu
